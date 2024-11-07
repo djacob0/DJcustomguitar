@@ -1,4 +1,4 @@
-# React Ecommerce Site
+# DJ Custom Guitars
 
 ### `npm start`
 
